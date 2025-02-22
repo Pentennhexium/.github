@@ -1,12 +1,11 @@
-## Hi there 👋
+## About Us
 
-<!--
+Pentennhexium is an indie game studio from the United States. We focus on creating story-driven games with interesting gameplay mechanics.
 
-**Here are some ideas to get you started:**
+## Games
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Mars Base (currently in development)
+
+## Team Members
+
+- Autumn (director and lead programmer)
